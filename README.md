@@ -66,6 +66,4 @@ Objective: Predict future stock prices based on historical data using ARIMA.
 - scikit-learn
 - statsmodels
 
-## Installation
-
 linked in profile link: www.linkedin.com/in/s-berlin-samvel-pandian007
